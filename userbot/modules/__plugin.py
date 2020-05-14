@@ -14,7 +14,7 @@ import os
 from telethon.tl.types import DocumentAttributeFilename
 import importlib
 
-from userbot import CMD_HELP, SILINEN_PLUGIN, bot, tgbot
+from userbot import CMD_HELP, SILINEN_PLUGIN, bot
 from userbot.events import register
 
 # Plugin Porter - UniBorg
